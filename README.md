@@ -13,7 +13,12 @@ I'm Asim.
 - ⚡ Fun fact:make it done and go have fun :)
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=asim-altayb&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asim-altayb&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 #### My Skills: 
