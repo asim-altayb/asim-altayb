@@ -15,9 +15,12 @@ I'm Asim.
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Asim's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&count_private=truetheme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asim-altayb&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asim-altayb&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Asim's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=asim-altayb&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
