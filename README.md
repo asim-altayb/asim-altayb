@@ -15,9 +15,9 @@ I'm Asim.
 
 
 
-[![Asim's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&count_private=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Asim's GitHub stats](https://github-readme-stats.vercel.app/api?username=asim-altayb&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asim-altayb&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asim-altayb&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
