@@ -15,24 +15,18 @@ I'm Asim.
 
 
 
-[![Asim's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&count_private=truetheme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Asim's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&count_private=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asim-altayb&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Asim's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=asim-altayb&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asim-altayb&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
 
 #### My Skills: 
-Web Development using [laravel],MVVM,[YII],architecture components, and [unit tests]
+- ⚡ Web Development using laravel ,MVVM, YII ,architecture components, and unit tests
 
-Additional skills in: [web security with [Burp suite], & Vuejs,Linux adminstrator] 
+- ⚡ Additional skills in: [web security with Burp suite, & Vuejs,Linux adminstrator
 
-
-
-#### Social Links :
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/asim-altayb/)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/14952607/asim-al-tayeb?tab=profile)  
 
 
 <h1 align='center'><i>Stay awesome!</i></h1>
