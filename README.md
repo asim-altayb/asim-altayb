@@ -9,17 +9,12 @@ I'm Asim.
 - 🔭 I'm Web Developer @Wedo Co.Ltd
 - 🌱 I’m learning any topics related to backend develpment and software development.
 - 📫 How to reach me:sudoasim@gmail.com
-- 😄 Pronouns: HE/HIM
 - ⚡ Fun fact:make it done and go have fun :)
 
 
 
 
 [![Asim's GitHub stats](https://github-readme-stats.vercel.app/api?username=asim-altayb&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asim-altayb&show_icons=true&theme=tokyonight&langs_count=6&hide=HTML,CSS)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 
 #### My Skills: 
