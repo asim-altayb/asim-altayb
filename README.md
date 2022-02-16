@@ -5,20 +5,17 @@ I'm Asim.
 </p>
 
 
-### Hi there 👋
-- 🔭 I'm Web Developer @Wedo Co.Ltd
-- 🌱 I’m learning any topics related to backend develpment and software development.
-- 📫 How to reach me:sudoasim@gmail.com
-- ⚡ Fun fact:make it done and go have fun :)
+<p align="center"> <img width="500" src="https://metrics.lecoq.io/asim-altayb" alt="Github Metrics"> </p>
+
+|![](https://github-readme-stats.vercel.app/api?username=asim-altayb&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=blueedgetechno&layout=compact&theme=tokyonight&langs_count=10)|
+|-|-|
 
 
+![](https://activity-graph.herokuapp.com/graph?username=asim-altayb&theme=redical)
 
-#### My Skills: 
-- ⚡ Web Development using laravel ,MVVM, YII ,architecture components, and unit tests
-
-- ⚡ Additional skills in: [web security with Burp suite, & Vuejs,Linux adminstrator
-
-
+<br>
+<p align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=asim-altayb" alt="Asim"/> </p>  </p>
+<br>
 
 <h1 align='center'><i>Stay awesome!</i></h1>
 
