@@ -1,4 +1,4 @@
-[![Social banner for Asim](https://github.com/asim-altayb/asim-altayb/blob/main/assets/my_header.svg)](https://facebook.com/mr.asim545)
+[![Social banner for Asim](https://github.com/asim-altayb/asim-altayb/blob/main/assets/my_header.svg)](https://www.linkedin.com/in/asim-abdallah/)
 
 
 
