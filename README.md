@@ -1,141 +1,51 @@
-[![Social banner for Asim](https://github.com/asim-altayb/asim-altayb/blob/main/assets/my_header.svg)](https://www.linkedin.com/in/asim-abdallah/)
+# Asim Abdalla
 
-## Hi, I'm Asim! 👋
+### Infrastructure & Realtime Architect
 
-I'm an experienced Senior Software Engineer with a strong background in full-stack web development, specializing in Laravel and Vue.js. I have over 5 years of expertise and a passion for delivering high-quality software solutions.
+> Systems that survive load, failure, and time.
 
-### Professional Experience
+I’m a Tech Lead responsible for architecture direction, engineering standards, reviews, roadmap decisions, mentoring, and hiring across production platforms where cloud infrastructure, realtime communication, and application architecture meet. My work spans GCP and Cloudflare, with earlier AWS experience, from Kubernetes and multi-tenant SaaS to WebSocket delivery platforms.
 
-#### The String (Jan 2023 - Present)
+I care about clear failure modes, observable systems, safe delivery, and infrastructure that becomes easier—not harder—to operate as it grows.
 
-- **DevOps Engineer** (9 mos)
-  - Skills: Amazon Web Services (AWS), AWS Lambda, AWS CloudFormation, AWS Elastic Beanstalk, System Monitoring, Nginx, Linux System Administration, Bash
+## Selected impact
 
-- **Senior Software Engineer** (Jan 2023 - Apr 2023, 4 mos)
-  - Skills: Cpaas, WebSocket, Continuous Integration and Continuous Delivery (CI/CD), Databases, Laravel, PHP
+- Designed realtime infrastructure supporting **eight-figure daily WebSocket session volume**.
+- Led platform architecture for a multi-tenant education product operating at **multi-million daily HTTP request volume**.
+- Led an **AWS-to-GCP production migration** with a controlled cutover measured in minutes.
 
-#### Injaazy (Feb 2021 - Present, 2 yrs 3 mos)
+## Systems I build
 
-- **Senior Software Engineer** (Apr 2023 - Present, 6 mos)
-- **Senior Software Engineer** (Part-time, Feb 2021 - Apr 2023, 2 yrs 3 mos)
-  - Skills: AWS Identity and Access Management (AWS IAM), Server Administration, Amazon Web Services (AWS), AWS Elastic Beanstalk, Databases, DevOps, PHP, Linux
+| Area | Production toolkit |
+| --- | --- |
+| Platforms & security | GKE, Cloud Run, Cloudflare Workers, Terraform, GitOps, private networking, workload isolation |
+| Realtime | Durable Objects, WebSockets, RealtimeKit, Soketi, Redis |
+| Reliability | Grafana [loki - mimir, logs and metrics], autoscaling, capacity planning, failure recovery |
+| Application & data | Laravel Octane, TypeScript/Node.js, PostgreSQL, Cloud SQL, Meilisearch |
 
-#### Freelance (Oct 2022 - May 2023, 8 mos)
+## Engineering case studies
 
-- **Freelance Software Engineer**
-  - Skills: Databases, clean code, Software as a Service (SaaS), Software Development Life Cycle (SDLC), Software Documentation, Laravel, Vue.js, DevOps, Docker
+### Realtime delivery platforms
 
-#### WeDo Technology Sudan (Nov 2019 - Oct 2022, 3 yrs)
+Designed realtime platforms on Cloudflare Durable Objects and on GKE/Soketi, using Redis-backed horizontal scaling where applicable, autoscaling, network isolation, and independent deployment pipelines.
 
-- **Full Stack Developer**
-  - Skills: Software Quality Assurance, Software Development, Software Development Life Cycle (SDLC), Software Documentation, Software Design, Software Implementation, Laravel, Vue.js, DevOps, Web Development, JavaScript, GitHub
+### Elastic database capacity
 
-- **Co-Founder**
-  - Skills: Software as a Service (SaaS), Software Development, Software Development Life Cycle (SDLC), Software Documentation, Software Design, Software Implementation
+Designed health-aware read-replica scaling and routing for bursty database workloads, including safe draining, storage-aware provisioning, and tests derived from production failure modes.
 
-#### Additional Experience
+### Multi-cloud platform migration
 
-- **Back End Developer Freelance** (Mar 2022 - Apr 2022, 2 mos)
-  - Skills: Laravel, Vue.js, DevOps, Web Development, GitHub
+Moved production workloads from AWS to GCP while coordinating application, data, DNS, and infrastructure cutover. The target platform uses infrastructure as code, GitOps delivery, and end-to-end observability.
 
-- **Back End Developer** (AlphaTech Technology, Jun 2018 - May 2020, 2 yrs)
-  - Skills: DevOps, Web Development, GitHub
+## How I work
 
+- Architecture should make failure explicit and recovery boring.
+- Observability is part of the design, not an afterthought.
+- The best platform removes operational work from product teams.
+- Performance, security, and cost are engineering constraints—not cleanup tasks.
 
-### Education
-- Bachelor of Education - BEd, Information Technology, International University of Africa (2016 - 2020)
+Most of my recent production work lives in private company repositories, so the examples here describe the engineering decisions without exposing customer code or internal systems.
 
-### Licenses & Certifications
+## Connect
 
-- **Automation with Ansible** (SdNOG, Issued May 2021)
-  - Skills: DevOps, GitHub
-
-- **Network Operations** (SdNOG, Issued Apr 2021)
-  - Skills: DevOps
-
-- **Linux Fundamentals** (CyberTalents, Issued Feb 2021)
-  - Skills: DevOps
-
-### Volunteering
-- **Technical Trainer** at International University of Africa (Jan 2019 - Nov 2019)
-  - Training students in web development
-
-### Skills
-
-🚀 **Backend Development**:
-- Laravel
-- PHP
-- Databases (SQL and NoSQL)
-- WebSocket
-- RESTful API Design
-- Microservices Architecture
-- Code Optimization
-- Database Optimization
-- Backend Testing
-
-🛠️ **DevOps**:
-- Amazon Web Services (AWS)
-- AWS Lambda
-- AWS CloudFormation
-- AWS Elastic Beanstalk
-- Server Administration
-- System Monitoring
-- Nginx
-- Linux System Administration
-- CI/CD (Continuous Integration and Continuous Delivery)
-- Docker
-- Kubernetes
-- Infrastructure as Code (IaC) with Terraform
-- Git and GitHub
-
-🔧 **Tools & Technologies**:
-- Git
-- Shell Scripting (Bash)
-- Database Management Systems (MySQL, PostgreSQL, MongoDB)
-- Docker Compose
-- Jenkins
-- Ansible
-- Jira
-- Postman
-- Postgresql
-- Redis
-- Elasticsearch
-
-🌐 **Web Development**:
-- Vue.js
-- JavaScript
-- HTML/CSS
-- Frontend-Backend Integration
-- WebSockets
-
-📚 **Software Development Practices**:
-- Clean Code Principles
-- Software Development Life Cycle (SDLC)
-- Software Documentation
-- Design Patterns
-- Test-Driven Development (TDD)
-- Continuous Integration (CI)
-- Continuous Deployment (CD)
-
-
-### Honors & Awards
-- **1st Place in Programming Excellence Competition** (International University of Africa, Issued Apr 2018)
-
-
-### GitHub Contribution Activity
-
-Here's my GitHub contribution activity over the past year:
-
-![GitHub Contributions](https://ghchart.rshah.org/asim-altayb)
-
-### Profile Visits
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=asim-altayb" alt="Asim's Profile Visits"/>
-</p>
-
-### Let's Connect
-
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/asim-abdallah/) and explore my projects. I'm open to new opportunities and collaborations.
-
-Thanks for visiting! 😄
+Saudi Arabia · [LinkedIn](https://www.linkedin.com/in/asim-abdallah/)
